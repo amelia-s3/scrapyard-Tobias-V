@@ -1,11 +1,20 @@
 2Boom bluetooth GLO portable wireless speaker -- stripped for parts
-2x 9V batteries
+2x 9V batteries -- one is used to make terminals for the other.
 2x 555 timer IC
 2x breadboard
 3x mini servos
 ton of cardboard and paint
 4x popsicle sticks
-various pots see synth schematic
-various caps see synth schematic 
+potentiometers
+- 2x 500K
+capacitors
+- 0.01 uF
+- 0.1uF
+- 10 uF
+resitors
+- 2x 4.7K ohms
+- 1x 1K ohms
 Foam ball
+USB power bank
+USB mini cable
 A freind to paint things
