@@ -6,4 +6,5 @@ run around jamming obviously
 ## Did why are you building it like that?
 shhhhshhhhhshhhhhh don't ask questions like that they hurt my feelings
 ![Inside of Tobias](https://github.com/user-attachments/assets/919647fc-64d7-41aa-8b85-f610e8b9447d)
-Tobias V is our robot built at the hack club scrapyard hackathon
+## TLDR
+Tobias V is our robot built at the hack club scrapyard hackathon that's entire purpose is being annoying
