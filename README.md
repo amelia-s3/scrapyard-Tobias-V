@@ -4,6 +4,10 @@ This is Tobias. Tobias runs on a mini arudino and an analog synth that screams. 
 ![video here](https://github.com/user-attachments/assets/f5450dd6-f289-4e6c-bd6a-c2e10c10e495)
 ## Hear me scream
 
+
+![scream](https://github.com/user-attachments/assets/cb2f04af-711f-42be-bb3e-153c2db72608)
+
+
 ## Purpose
 run around jamming obviously
 ## Did why are you building it like that?
