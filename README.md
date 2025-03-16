@@ -1,8 +1,7 @@
 # scrapyard-Tobias-V
-schematics and such for tobias V, our hack club scrapyard bot\n
-Tobias runs on a mini audino and an analog synth that screams
+schematics and such for tobias V, our hack club scrapyard bot
 ![Face of Tobias](https://github.com/amelia-s3/scrapyard-Tobias-V/blob/main/tobias.jpg)
-
+Tobias runs on a mini audino and an analog synth that screams
 ## Purpose
 run around jamming obviously
 ## Did why are you building it like that?
