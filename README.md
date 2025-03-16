@@ -1,6 +1,6 @@
 # Tobias-V
 ![Face of Tobias](https://github.com/amelia-s3/scrapyard-Tobias-V/blob/main/tobias.jpg)
-Tobias runs on a mini audino and an analog synth that screams
+This is Tobias. Tobias runs on a mini arudino and an analog synth that screams. His sole purpose is running around jamming aloud to some quite terrible music. He's basically that one guy who doesn't understand that he should be wearing headphones if he wants to listen to something in public.
 ## Purpose
 run around jamming obviously
 ## Did why are you building it like that?
